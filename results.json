@@ -1,0 +1,211 @@
+[
+  {
+    "datetime_utc": "2020-04-29 09:56",
+    "distance_au": 0.042048495605758,
+    "velocity_km_s": 8.70158478774505,
+    "neo": {
+      "designation": "52768",
+      "name": "52768",
+      "diameter_km": 1.75,
+      "potentially_hazardous": true
+    }
+  },
+  {
+    "datetime_utc": "2021-08-21 15:10",
+    "distance_au": 0.0229087451841724,
+    "velocity_km_s": 26.1689499487946,
+    "neo": {
+      "designation": "2016 AJ193",
+      "name": "2016 AJ193",
+      "diameter_km": 1.374,
+      "potentially_hazardous": true
+    }
+  },
+  {
+    "datetime_utc": "2022-01-18 21:51",
+    "distance_au": 0.0132450682865172,
+    "velocity_km_s": 19.5554650265091,
+    "neo": {
+      "designation": "7482",
+      "name": "7482",
+      "diameter_km": 1.052,
+      "potentially_hazardous": true
+    }
+  },
+  {
+    "datetime_utc": "2022-05-03 21:52",
+    "distance_au": 0.0783164078780334,
+    "velocity_km_s": 8.95863670553399,
+    "neo": {
+      "designation": "175706",
+      "name": "175706",
+      "diameter_km": 1.196,
+      "potentially_hazardous": true
+    }
+  },
+  {
+    "datetime_utc": "2022-05-27 14:26",
+    "distance_au": 0.0269035817292935,
+    "velocity_km_s": 13.1155554471715,
+    "neo": {
+      "designation": "7335",
+      "name": "7335",
+      "diameter_km": 1.8,
+      "potentially_hazardous": true
+    }
+  },
+  {
+    "datetime_utc": "2022-09-01 06:54",
+    "distance_au": 0.0575388878990113,
+    "velocity_km_s": 14.2880385876657,
+    "neo": {
+      "designation": "161989",
+      "name": "161989 (Cacus)",
+      "diameter_km": 1.9,
+      "potentially_hazardous": true
+    }
+  },
+  {
+    "datetime_utc": "2023-11-02 15:49",
+    "distance_au": 0.0351109377618349,
+    "velocity_km_s": 7.97055963346177,
+    "neo": {
+      "designation": "363505",
+      "name": "363505",
+      "diameter_km": 1.876,
+      "potentially_hazardous": true
+    }
+  },
+  {
+    "datetime_utc": "2023-11-03 12:33",
+    "distance_au": 0.0593578641871148,
+    "velocity_km_s": 23.250999941534,
+    "neo": {
+      "designation": "164121",
+      "name": "164121",
+      "diameter_km": 1.717,
+      "potentially_hazardous": true
+    }
+  },
+  {
+    "datetime_utc": "2024-11-05 19:47",
+    "distance_au": 0.0888430307218586,
+    "velocity_km_s": 11.5296599364224,
+    "neo": {
+      "designation": "66146",
+      "name": "66146",
+      "diameter_km": 2.864,
+      "potentially_hazardous": false
+    }
+  },
+  {
+    "datetime_utc": "2025-01-08 13:40",
+    "distance_au": 0.0821976075876292,
+    "velocity_km_s": 8.24870181303574,
+    "neo": {
+      "designation": "887",
+      "name": "887 (Alinda)",
+      "diameter_km": 4.2,
+      "potentially_hazardous": false
+    }
+  },
+  {
+    "datetime_utc": "2025-03-09 22:19",
+    "distance_au": 0.0776307636842333,
+    "velocity_km_s": 34.0797595729424,
+    "neo": {
+      "designation": "66008",
+      "name": "66008",
+      "diameter_km": 1.484,
+      "potentially_hazardous": false
+    }
+  },
+  {
+    "datetime_utc": "2025-05-15 18:35",
+    "distance_au": 0.0704617233470778,
+    "velocity_km_s": 22.939385636891,
+    "neo": {
+      "designation": "154276",
+      "name": "154276",
+      "diameter_km": 1.06,
+      "potentially_hazardous": true
+    }
+  },
+  {
+    "datetime_utc": "2025-12-24 22:21",
+    "distance_au": 0.05319735033683,
+    "velocity_km_s": 28.5413142081758,
+    "neo": {
+      "designation": "488789",
+      "name": "488789",
+      "diameter_km": 1.039,
+      "potentially_hazardous": true
+    }
+  },
+  {
+    "datetime_utc": "2026-08-26 16:35",
+    "distance_au": 0.0902866044102394,
+    "velocity_km_s": 11.3080458521096,
+    "neo": {
+      "designation": "66146",
+      "name": "66146",
+      "diameter_km": 2.864,
+      "potentially_hazardous": false
+    }
+  },
+  {
+    "datetime_utc": "2026-11-28 02:47",
+    "distance_au": 0.0707661979541355,
+    "velocity_km_s": 17.7093402689082,
+    "neo": {
+      "designation": "217628",
+      "name": "217628 (Lugh)",
+      "diameter_km": 1.4,
+      "potentially_hazardous": true
+    }
+  },
+  {
+    "datetime_utc": "2027-04-17 18:37",
+    "distance_au": 0.0649219319920102,
+    "velocity_km_s": 16.3823403665158,
+    "neo": {
+      "designation": "144901",
+      "name": "144901",
+      "diameter_km": 2.24,
+      "potentially_hazardous": false
+    }
+  },
+  {
+    "datetime_utc": "2028-09-10 00:20",
+    "distance_au": 0.0967113894564696,
+    "velocity_km_s": 17.9688867990776,
+    "neo": {
+      "designation": "9856",
+      "name": "9856",
+      "diameter_km": 1.0,
+      "potentially_hazardous": true
+    }
+  },
+  {
+    "datetime_utc": "2029-07-15 18:05",
+    "distance_au": 0.047126681855635,
+    "velocity_km_s": 23.2854082576645,
+    "neo": {
+      "designation": "242450",
+      "name": "242450",
+      "diameter_km": 2.914,
+      "potentially_hazardous": true
+    }
+  },
+  {
+    "datetime_utc": "2029-12-08 14:39",
+    "distance_au": 0.0988401066717275,
+    "velocity_km_s": 18.1819152170504,
+    "neo": {
+      "designation": "5731",
+      "name": "5731 (Zeus)",
+      "diameter_km": 5.231,
+      "potentially_hazardous": false
+    }
+  }
+]
